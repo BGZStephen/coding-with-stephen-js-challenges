@@ -15,3 +15,16 @@ For all of the JavaScript challenges in this repo, we'll be using VSCode, a soli
 To keep things simple, we won't be using any additional addons or plugins, although you are welcome to add any you wish!
 
 ## Installing any pre-requisite software
+
+We will keep external software / package usage to a minimum for this repo, all you'll need is:
+
+- Node - This lets you run JavaScript on your machine, outside of a browser
+- - Installing node on your machine is super simple, there are a set of instructions on the nodejs website  [Windows / MacOS](https://nodejs.org/en/download/) / [Linux](https://nodejs.org/en/download/package-manager/)
+- Npm - npm is used to manage external packages, bits of code developed by other people, that you can use in your projects. This should come installed with Node, however you can find instructions on installing if for some reason you don't have it [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+I will be using the following versions:
+
+- Node version 14.15.5 
+- npm version 7.19.1
+
+You can check your node and npm versions with the following commands `node -v` and `npm -v`
