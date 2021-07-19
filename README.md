@@ -36,3 +36,12 @@ We will be making use of a well known package called `jest` within this repo, `j
 To install this package, you'll want to navigate to the root of this project within the vscode terminal (check the terminal menu at the top of vscode to open a new terminal window), by default opening this project in vscode should put you in the directory, however you can navigate around with the [cd command](https://linuxize.com/post/linux-cd-command/)
 
 Once you're in the root of the project, run the following command `npm install`, this will install all of the packages highlighted in the `package.json` file, most notably jest.
+
+## Working with the challenges in this repo
+
+Each of the challenges within this repo come with 3 files, one which contains the challenge code you'll need to complete, often named similar to `something.js`, one for tests, named as `something.test.js` and an instructions file called `instructions.md`.
+
+You can run tests for a particular challenge with the following command `npm run test no-experience-required/1-hello-world/hello-world.test.js`, simply replacting the folders with the folder of the challenge you're working on. 
+
+Read the instructions contained in each challenge, write your code and run the tests to see if they pass, once they do you're all set! You can follow along with me working through the challenge if you get stuck, or want to see how I complete it, there will be a link to the YouTube video within the instructions file.
+
