@@ -4,7 +4,7 @@
   "description": "A collection of JS focused challenges to accompany my YouTube channel https://youtube.com/channel/UCFBFlxUJ3ROGPiuLQG8D1kA",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BGZStephen/coding-with-stephen-js-challenges/issues"
   },
-  "homepage": "https://github.com/BGZStephen/coding-with-stephen-js-challenges#readme"
+  "homepage": "https://github.com/BGZStephen/coding-with-stephen-js-challenges#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
 }
