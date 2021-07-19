@@ -45,3 +45,6 @@ You can run tests for a particular challenge with the following command `npm run
 
 Read the instructions contained in each challenge, write your code and run the tests to see if they pass, once they do you're all set! You can follow along with me working through the challenge if you get stuck, or want to see how I complete it, there will be a link to the YouTube video within the instructions file.
 
+## Getting started with no experience 
+
+There is a folder `called no-experience-required` which have a set of challenges aimed at people who have never coded with JavaScript before, the contents within are ordered by number to give you a nice sequence to run through.
