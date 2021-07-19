@@ -19,7 +19,7 @@ To keep things simple, we won't be using any additional addons or plugins, altho
 We will keep external software / package usage to a minimum for this repo, all you'll need is:
 
 - Node - This lets you run JavaScript on your machine, outside of a browser
-- - Installing node on your machine is super simple, there are a set of instructions on the nodejs website  [Windows / MacOS](https://nodejs.org/en/download/) / [Linux](https://nodejs.org/en/download/package-manager/)
+  - Installing node on your machine is super simple, there are a set of instructions on the nodejs website  [Windows / MacOS](https://nodejs.org/en/download/) / [Linux](https://nodejs.org/en/download/package-manager/)
 - Npm - npm is used to manage external packages, bits of code developed by other people, that you can use in your projects. This should come installed with Node, however you can find instructions on installing if for some reason you don't have it [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 I will be using the following versions:
@@ -28,3 +28,11 @@ I will be using the following versions:
 - npm version 7.19.1
 
 You can check your node and npm versions with the following commands `node -v` and `npm -v`
+
+## Installing the npm packages for this repo
+
+We will be making use of a well known package called `jest` within this repo, `jest` is a piece of technology developed by the brains at facebook, and is used for us to test our code. 
+
+To install this package, you'll want to navigate to the root of this project within the vscode terminal (check the terminal menu at the top of vscode to open a new terminal window), by default opening this project in vscode should put you in the directory, however you can navigate around with the [cd command](https://linuxize.com/post/linux-cd-command/)
+
+Once you're in the root of the project, run the following command `npm install`, this will install all of the packages highlighted in the `package.json` file, most notably jest.
