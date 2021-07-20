@@ -47,4 +47,4 @@ Read the instructions contained in each challenge, write your code and run the t
 
 ## Getting started with no experience 
 
-There is a folder `called no-experience-required` which have a set of challenges aimed at people who have never coded with JavaScript before, the contents within are ordered by number to give you a nice sequence to run through.
+There is a folder `called no-experience-required` which have a set of challenges aimed at people who have never coded with JavaScript before, for the first challenge, why not give [hello world](no-experience-required/hello-world/hello-world.js) a try.
