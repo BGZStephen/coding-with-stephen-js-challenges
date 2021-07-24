@@ -4,7 +4,7 @@ The challenge is to complete the function `toThePowerOf`, ensuring the function 
 
 Fill in the code between the curly braces `{ }` with the code required to `return` the number.
 
-Once you're happy, try running the tests with `npm run test no-experience-required/working-with-numbers-powers/working-with-numbers-powers.test.js`, if you're all done, you should get a total of 5 passing tests.
+Once you're happy, try running the tests with `npm run test challenges/entry/working-with-numbers-powers/working-with-numbers-powers.test.js`, if you're all done, you should get a total of 5 passing tests.
 
 Don't worry if you don't get it first try, here are some things to help out:
 

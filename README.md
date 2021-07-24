@@ -41,10 +41,10 @@ Once you're in the root of the project, run the following command `npm install`,
 
 Each of the challenges within this repo come with 3 files, one which contains the challenge code you'll need to complete, often named similar to `something.js`, one for tests, named as `something.test.js` and an instructions file called `instructions.md`.
 
-You can run tests for a particular challenge with the following command `npm run test no-experience-required/1-hello-world/hello-world.test.js`, simply replacting the folders with the folder of the challenge you're working on. 
+You can run tests for a particular challenge with the following command `npm run test challenges/basics/hello-world/hello-world.test.js`, simply replacting the folders with the folder of the challenge you're working on. 
 
 Read the instructions contained in each challenge, write your code and run the tests to see if they pass, once they do you're all set! You can follow along with me working through the challenge if you get stuck, or want to see how I complete it, there will be a link to the YouTube video within the instructions file.
 
 ## Getting started with no experience 
 
-There is a folder `called no-experience-required` which have a set of challenges aimed at people who have never coded with JavaScript before, for the first challenge, why not give [hello world](no-experience-required/hello-world/hello-world.js) a try.
+There is a folder `called challenges` which have a set of challenges aimed at people who have never coded with JavaScript before, for the first challenge, why not give [hello world](challenges/basics/hello-world/hello-world.js) a try.
