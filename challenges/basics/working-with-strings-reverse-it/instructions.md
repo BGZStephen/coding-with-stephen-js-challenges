@@ -4,7 +4,7 @@ The challenge is to complete the function `reverseAString`, ensuring the functio
 
 Fill in the code between the curly braces `{ }` with the code required to `return` the reversed string.
 
-Once you're happy, try running the tests with `npm run test challenges/entry/working-with-strings-reverse-it/working-with-strings-reverse-it.test.js`, if you're all done, you should get a total of 3 passing tests.
+Once you're happy, try running the tests with `npm run test challenges/basics/working-with-strings-reverse-it/working-with-strings-reverse-it.test.js`, if you're all done, you should get a total of 3 passing tests.
 
 Don't worry if you don't get it first try, here are some things to help out:
 
