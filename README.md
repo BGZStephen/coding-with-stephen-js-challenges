@@ -43,7 +43,7 @@ Each of the challenges within this repo come with 3 files, one which contains th
 
 You can run tests for a particular challenge with the following command `npm run test challenges/basics/hello-world/hello-world.test.js`, simply replacting the folders with the folder of the challenge you're working on. 
 
-Read the instructions contained in each challenge, write your code and run the tests to see if they pass, once they do you're all set! You can follow along with me working through the challenge if you get stuck, or want to see how I complete it, there will be a link to the YouTube video within the instructions file.
+Read the instructions contained in each challenge, write your code and run the tests to see if they pass, once they do you're all set!
 
 ## Getting started with no experience 
 
