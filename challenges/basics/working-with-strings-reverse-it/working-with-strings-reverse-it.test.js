@@ -1,6 +1,6 @@
 const { reverseAString } = require("./working-with-strings-reverse-it")
 
-describe("sumTwoNumbers", () => {
+describe("reverseAString", () => {
   test('returns reversed string "abcdefghijklmnopqrstuvwxyz"', () => {
     const res = reverseAString("abcdefghijklmnopqrstuvwxyz")
 

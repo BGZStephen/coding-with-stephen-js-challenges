@@ -1,6 +1,6 @@
 const { toThePowerOf } = require("./working-with-numbers-powers")
 
-describe("sumTwoNumbers", () => {
+describe("toThePowerOf", () => {
   test("returns values for positive numbers 1 & 10", () => {
     const res = toThePowerOf(1, 10)
 
