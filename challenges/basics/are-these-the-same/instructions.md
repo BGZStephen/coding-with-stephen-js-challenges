@@ -4,7 +4,7 @@ The challenge is to complete the function `areTheseTheSame`, ensuring the functi
 
 Fill in the code between the curly braces `{ }` with your solution.
 
-Once you're happy, try running the tests with `npm run test challenges/basics/are-these-the-same/are-these-the-same.test.js`, if you're all done, you should get a total of 3 passing tests.
+Once you're happy, try running the tests with `npm run test challenges/basics/are-these-the-same/are-these-the-same.test.js`, if you're all done, you should get a total of 9 passing tests.
 
 Don't worry if you don't get it first try, here are some things to help out:
 
