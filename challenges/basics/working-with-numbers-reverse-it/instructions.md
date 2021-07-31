@@ -15,4 +15,4 @@ Don't worry if you don't get it first try, here are some things to help out:
 Some useful JavaScript functions you may want to look into:
 
 * parseInt() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
-* toString() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
+* toString() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
