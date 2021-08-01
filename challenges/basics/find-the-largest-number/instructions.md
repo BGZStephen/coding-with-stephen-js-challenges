@@ -8,4 +8,5 @@ Once you're happy, try running the tests with `npm run test challenges/basics/fi
 
 Don't worry if you don't get it first try, here are some things to help out:
 
-* Equality and comparisons with JavaScript: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+* Math.max() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max()
+* array.reduce() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
