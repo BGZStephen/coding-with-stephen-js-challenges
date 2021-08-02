@@ -10,7 +10,7 @@ describe("getMiddleItem", () => {
   test('returns 2 for [1, 2, 3]', () => {
     const res = getMiddleItem([1, 2, 3])
 
-    expect(res).toBe(undefined)
+    expect(res).toBe([2])
   })
 
   test('returns [2, 3] for [1, 2, 3, 4]', () => {
