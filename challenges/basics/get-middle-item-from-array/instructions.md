@@ -8,4 +8,6 @@ Once you're happy, try running the tests with `npm run test challenges/basics/ge
 
 Don't worry if you don't get it first try, here are some things to help out:
 
-* includes() - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
+* remainder (%) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder
+* Math.floor() -  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+* Array common operations - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#common_operations
