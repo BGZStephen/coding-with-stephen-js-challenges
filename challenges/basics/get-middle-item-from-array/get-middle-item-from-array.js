@@ -1,4 +1,4 @@
-function getMiddleItem(array, item) {
+function getMiddleItem(array) {
   
 }
 
