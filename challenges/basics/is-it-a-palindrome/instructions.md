@@ -1,6 +1,6 @@
 # Is it a palindrome
 
-The challenge is to complete the function `isAPalindrome`. The function takes one one argument, a string and returns `true` if the string is a palindrome (the same forward as backwards).
+The challenge is to complete the function `isAPalindrome`. The function takes one argument, a string and returns `true` if the string is a palindrome (the same forward as backwards).
 
 Example: `isAPalindrome("ollo")` would return `true`
 
