@@ -6,7 +6,7 @@ Example: `capitalize("hello")` would return `Hello`
 
 Fill in the code between the curly braces `{ }` with your solution.
 
-Once you're happy, try running the tests with `npm run test challenges/basics/capitalize-the-string/capitalize-the-string.test.js`, if you're all done, you should get a total of 6 passing tests.
+Once you're happy, try running the tests with `npm run test challenges/basics/capitalize-the-string/capitalize-the-string.test.js`, if you're all done, you should get a total of 4 passing tests.
 
 Don't worry if you don't get it first try, here are some things to help out:
 
